@@ -1,0 +1,7 @@
+E:\c# repository\Masjid_Management\Masjid_Management\bin\Debug\Masjid_Management.exe.config
+E:\c# repository\Masjid_Management\Masjid_Management\bin\Debug\Masjid_Management.exe
+E:\c# repository\Masjid_Management\Masjid_Management\bin\Debug\Masjid_Management.pdb
+E:\c# repository\Masjid_Management\Masjid_Management\obj\Debug\Masjid_Management.csproj.AssemblyReference.cache
+E:\c# repository\Masjid_Management\Masjid_Management\obj\Debug\Masjid_Management.csproj.CoreCompileInputs.cache
+E:\c# repository\Masjid_Management\Masjid_Management\obj\Debug\Masjid_Management.exe
+E:\c# repository\Masjid_Management\Masjid_Management\obj\Debug\Masjid_Management.pdb
